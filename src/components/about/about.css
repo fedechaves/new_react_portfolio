@@ -4,7 +4,7 @@
     column-gap: 4rem;
 }
 
-.about_img {
+.about__img {
     width: 350px;
     border-radius: 1.5rem;
     justify-self: center;
@@ -63,6 +63,7 @@
 
     .about__data {
         text-align: center;
+        
     }
 
     .about__info {
