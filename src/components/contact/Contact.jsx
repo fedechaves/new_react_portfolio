@@ -8,10 +8,10 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_2wjzbyj',
-     'template_vpaxlei', 
+    emailjs.sendForm('',
+     '', 
      form.current, 
-     'N4fW7ov49nHMtsG3W')
+     '')
       e.target.reset()
   };
   return (
