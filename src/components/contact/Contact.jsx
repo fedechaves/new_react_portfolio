@@ -8,10 +8,10 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('',
-     '', 
+    emailjs.sendForm(process.env.REACT_APP_SERVICE_ID,
+     process.env.REACT_APP_TEMPLATE_ID, 
      form.current, 
-     '')
+     process.env.REACT_APP_PUBLIC_KEY)
       e.target.reset()
   };
   return (
