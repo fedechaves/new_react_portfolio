@@ -3,6 +3,7 @@ import Work2 from "../../assets/work2.jpg";
 import Work3 from "../../assets/work3.jpg";
 import Work4 from "../../assets/work4.jpg";
 import Work5 from "../../assets/work5.jpg";
+import Work6 from "../../assets/work5.jpg";
 
 export const projectsData = [ 
     {
@@ -10,35 +11,42 @@ export const projectsData = [
         image: Work1,
         title: "Web design",
         category: "web",
-        link: "https://privagram.onrender.com/",
+        link: "https://github.com/fedechaves/mern-social-media-app",
     },
     {
         id:2,
         image: Work2,
-        title: "App movil",
-        category: "app",
+        title: "Web design",
+        category: "web",
         link: "https://privagram.onrender.com/",
     },
     {
         id:3,
         image: Work3,
-        title: "Brand design",
-        category: "design",
-        link: "https://privagram.onrender.com/",
+        title: "Web design",
+        category: "web",
+        link: "https://github.com/fedechaves/BooksTracker",
     },
     {
         id:4,
         image: Work4,
-        title: "App movil",
-        category: "app",
-        link: "https://privagram.onrender.com/",
+        title: "Web design",
+        category: "web",
+        link: "https://github.com/fedechaves/teamtask_MVP/",
     },
     {
         id:5,
         image: Work5,
         title: "Web design",
         category: "web",
-        link: "https://privagram.onrender.com/",
+        link: "https://agenciaruizoddone.netlify.app/",
+    },
+    {
+        id:6,
+        image: Work6,
+        title: "Web design",
+        category: "web",
+        link: "https://csvseguros.netlify.app/",
     },
 ];
 
@@ -46,14 +54,14 @@ export const projectsNav = [
     {
         name: "all",
     },
-    {
-        name: "web",
-    },
-    {
-        name: "app",
-    },
-    {
-        name: "design",
-    },
+    // {
+    //     name: "web",
+    // },
+    // {
+    //     name: "app",
+    // },
+    // {
+    //     name: "design",
+    // },
 ];
 

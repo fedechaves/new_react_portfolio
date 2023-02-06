@@ -27,7 +27,7 @@
 .skills__group {
     display: grid;
     align-items: flex-start;
-    row-gap: 1rem;
+    row-gap: 2.5rem;
 }
 
 .skills__data {

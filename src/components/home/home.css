@@ -21,7 +21,7 @@
 }
 
 .home__social-icon:hover {
-    color: var(--title-color-dark);
+    color: orangered;
 }
 
 .home__hand {
@@ -112,9 +112,17 @@
     margin-left: 2px;
 }
 
+.home__scroll-name:hover {
+    color: orangered;
+}
+
 .home__scroll-arrow {
     font-size: 1.25rem;
     color: var(--title-color);
+}
+
+.home__scroll-arrow:hover {
+    color: orangered;
 }
 
   /* ================= BREAKPOINTS  ==================*/

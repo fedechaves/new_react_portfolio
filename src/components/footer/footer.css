@@ -18,7 +18,7 @@
 }
 
 .footer__link:hover {
-    color:var(--title-color-dark);
+    color:orangered;
 }
 
 .footer__list {
@@ -51,7 +51,7 @@
 }
 
 .footer__social-link:hover {
-    background-color: var(--title-color-dark);
+    background-color: orangered;
 }
 
 .footer__copy {
