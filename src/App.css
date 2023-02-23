@@ -4,7 +4,9 @@
 @font-face {
   font-family: "arial";
   src: local("arial"),
-    url("../public/arial.ttf");
+    url("../public/arial.ttf") format('ttf'),
+    url("../public/Arial.woff") format('woff'),
+    url("../public/ArialMT.woff2") format('woff2');
   font-style: normal;
   font-weight: 400;
   font-display: swap;
