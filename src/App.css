@@ -26,7 +26,7 @@
   --title-color: hsl(var(--hue), var(--sat), 20%);
   --title-color-dark: hsl(var(--hue), var(--sat), 0%);
   --title-color-dark-proof: hsl(var(--hue), var(--sat), 50%%);
-  --text-color: hsl(var(--hue), var(--sat), 46%);
+  --text-color: hsl(var(--hue), var(--sat), 36%);
   --body-color: hsl(var(--hue), var(--sat), 98%);
   --container-color: #fff;
 
