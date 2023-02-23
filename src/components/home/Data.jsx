@@ -59,7 +59,7 @@ const Data = () => {
         <p className="home__description">I'm a passionate full-stack developer from Paraguay.
         I'm an Asunción native, I studied here, and previously worked in marketing and commercial areas</p>
 
-        <a href="" className="button button--flex">
+        <a href="#contact" className="button button--flex">
             Say Hello
             <svg
                 class="button__icon"
