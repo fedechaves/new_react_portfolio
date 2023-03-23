@@ -48,7 +48,7 @@ const Footer = () => {
         </div>
 
         <span className='footer__copy'>
-          &#169; Fedecha. All rights reserved.
+          &#169; Federico Chaves. Full-Stack Developer.
         </span>
       </div>
     </footer>
