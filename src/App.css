@@ -1,7 +1,7 @@
 /* =================  ==================*\
                GOOGLE FONTS
 \* =================  ==================*/
-@font-face {
+/* @font-face {
   font-family: "arial";
   src: local("arial"),
     url("../public/unicons-11.woff") format('woff'),
@@ -27,7 +27,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-}
+} */
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
 
