@@ -1,7 +1,35 @@
 /* =================  ==================*\
                GOOGLE FONTS
 \* =================  ==================*/
+/* @font-face {
+  font-family: "arial";
+  src: local("arial"),
+    url("../public/unicons-11.woff") format('woff'),
+    url("../public/unicons-11.woff2") format('woff2'),
+    url("../public/unicons-13.woff2") format('woff2')
+    url("../public/unicons-15.woff") format('woff'),
+    url("../public/unicons-15.woff2") format('woff2'),
+    url("../public/unicons-17.woff2") format('woff2')
+    url("../public/unicons-19.woff") format('woff'),
+    url("../public/unicons-19.woff2") format('woff2'),
+    url("../public/unicons-2.woff") format('woff')
+    url("../public/unicons-2.woff2") format('woff2'),
+    url("../public/unicons-5.woff") format('woff'),
+    url("../public/unicons-5.woff2") format('woff2')
+    url("../public/unicons-6.woff") format('woff'),
+    url("../public/unicons-6.woff2") format('woff2'),
+    url("../public/unicons-7.woff") format('woff')
+    url("../public/unicons-7.woff2") format('woff2'),
+    url("../public/unicons-8.woff") format('woff'),
+    url("../public/unicons-8.woff2") format('woff2')
+    url("../public/unicons-9.woff") format('woff'),
+    url("../public/unicons-9.woff2") format('woff2');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+} */
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
 
 
 /* =================  ==================*\
@@ -22,7 +50,7 @@
   --container-color: #fff;
 
   /* ================= Font and Typography  ==================*/
-  --body-font:  sans-serif;
+  --body-font: "Poppins", sans-serif;
 
   /*.5rem = 8px | 1 rem = 16px*/
   --big-font-size: 3.5rem;
